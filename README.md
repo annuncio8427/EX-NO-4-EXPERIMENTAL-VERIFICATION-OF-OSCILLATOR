@@ -65,7 +65,8 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ![WhatsApp Image 2025-11-28 at 3 42 55 PM](https://github.com/user-attachments/assets/2b3df973-5927-43f3-a746-b5f70fdeb7c4)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-28 at 3 44 04 PM](https://github.com/user-attachments/assets/19adf19a-09d5-4d8c-9627-321be6822af1)
+
+![WhatsApp Image 2025-11-28 at 6 32 19 PM](https://github.com/user-attachments/assets/f6435118-abc4-418a-bf90-d514be5d7b55)
 
 
 ---
@@ -131,7 +132,9 @@ Rf = 15K *2=30KΩ
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-28 at 3 48 08 PM](https://github.com/user-attachments/assets/e78b2ce6-d36b-4b0b-851f-235c0f10a867)
+
+![WhatsApp Image 2025-11-28 at 6 31 54 PM](https://github.com/user-attachments/assets/b069aeb7-5504-46a9-bd39-cbf6d56a79cd)
+
 ![WhatsApp Image 2025-11-28 at 3 49 07 PM](https://github.com/user-attachments/assets/90be1b83-456a-434d-a10f-06759fda848b)
 
 
